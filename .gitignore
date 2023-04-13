@@ -2,6 +2,7 @@ HW4_Tarunbir_Gambhir/
 .ipynb_checkpoints/
 __pycache__/
 
+*.pt
 *.gz
 *.pdf
 *.zip
