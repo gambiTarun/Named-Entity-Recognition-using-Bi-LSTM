@@ -1,0 +1,11 @@
+HW4_Tarunbir_Gambhir/
+.ipynb_checkpoints/
+__pycache__/
+
+*.gz
+*.pdf
+*.zip
+*.DS_Store
+*.out
+pred
+
