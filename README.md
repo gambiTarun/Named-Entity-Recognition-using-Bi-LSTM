@@ -119,11 +119,4 @@ This will generate "dev_pred" (dev_set predictions) and "pred" (test_set predict
 # References
 
 - [PyTorch Resources](https://pytorch.org/docs/stable/nn.html)
-- \begin{thebibliography}
-
-\bibitem{1511.08308}
-Jason P. C. Chiu and Eric Nichols.
-\newblock Named Entity Recognition with Bidirectional LSTM-CNNs, 2015;
-\newblock arXiv:1511.08308.
-
-\end{thebibliography}
+- Jason P. C. Chiu, Eric Nichols: “Named Entity Recognition with Bidirectional LSTM-CNNs”, 2015; [http://arxiv.org/abs/1511.08308 arXiv:1511.08308].
