@@ -103,7 +103,7 @@ To run the training of the model for task2, run the "bonus.py" as following:
 
 This will generate "blstm_cnn.pt" for the trained model.
 
-![BLSTM_CNN](https://user-images.githubusercontent.com/22619455/232166915-71f0eefb-b5cc-47b2-bdee-6c4e2a4ecb44.png)
+<img width="995" alt="image" src="https://user-images.githubusercontent.com/22619455/232168270-5119157b-1763-4d61-ae68-3211d66fce41.png">
 
 ### Testing 
 
