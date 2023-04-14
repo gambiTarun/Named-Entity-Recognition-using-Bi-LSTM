@@ -119,10 +119,11 @@ This will generate "dev_pred" (dev_set predictions) and "pred" (test_set predict
 # References
 
 - [PyTorch Resources](https://pytorch.org/docs/stable/nn.html)
-- @misc{1511.08308,
-Author = {Jason P. C. Chiu and Eric Nichols},
-Title = {Named Entity Recognition with Bidirectional LSTM-CNNs},
-Year = {2015},
-Eprint = {arXiv:1511.08308},
-}
+- \begin{thebibliography}
 
+\bibitem{1511.08308}
+Jason P. C. Chiu and Eric Nichols.
+\newblock Named Entity Recognition with Bidirectional LSTM-CNNs, 2015;
+\newblock arXiv:1511.08308.
+
+\end{thebibliography}
