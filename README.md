@@ -6,11 +6,12 @@ In this repository, we introduce a unique neural network design that seamlessly 
 
 To run the training of the model for task1, run the "task1.py" as following:
 
-'''
+```
     python task1.py -m train
-'''
+```
 
-** Make sure to have "data/" (folder with train, dev, and test) in the current directory. **
+
+**Make sure to have "data/" (folder with train, dev, and test) in the current directory.**
 
 This will generate "blstm1.pt" for the trained model.
 
@@ -18,15 +19,13 @@ This will generate "blstm1.pt" for the trained model.
 
 To run the testing on the model for task1, run the "task1.py" as following:
 
-'''
+```
     python task1.py -m test
-'''
+```
 
-** Make sure to have "blstm1.pt", "data/" (folder with train, dev, and test) in the current directory. **
+**Make sure to have "blstm1.pt", "data/" (folder with train, dev, and test) in the current directory.**
 
 This will generate "dev1.out" (dev_set predictions) and "test1.out" (test_set predictions) using the saved weights.
-
-#######################################################
 
 
 
