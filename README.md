@@ -25,7 +25,7 @@ idx word gold pred
 
 where there is a white space between two columns. gold is the gold-standard NER tag and pred is the model-predicted tag. Then execute the command line:
 ```
-perl conll03eval < {predicted f ile}
+perl conll03eval < {predicted file}
 ```
 where {predicted file} is the prediction file in the prepared format.
 
